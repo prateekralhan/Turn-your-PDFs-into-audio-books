@@ -4,7 +4,7 @@ A handy script to convert your PDFs/books into audiobooks.
 ***( I thought of using this when I am travelling and feel lazy enough to read... :wink: )***
 
 ## Installation:
-Simply run the command: **pip install -r requirements.txt** to install the dependencies.
+Simply run the command: **pip install -r requirements.txt**
 
 ## Usage:
 1. Place your PDF in the same directory as this cloned repo.
