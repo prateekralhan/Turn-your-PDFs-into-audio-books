@@ -1,4 +1,5 @@
-# Turn your PDFs :bookmark_tabs: into audio books :musical_note:
+# Turn your PDFs :bookmark_tabs: into audio books :musical_note: [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 A handy script to convert your PDFs/books into audiobooks.
 
 ***( I thought of using this when I am travelling and feel lazy enough to read... :wink: )***
